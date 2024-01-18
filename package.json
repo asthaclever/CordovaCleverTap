@@ -1,6 +1,6 @@
 {
-  "name": "com.example.hello",
-  "displayName": "HelloWorld",
+  "name": "com.example.hellos",
+  "displayName": "HelloWorlds",
   "version": "1.0.0",
   "description": "A sample Apache Cordova application that responds to the deviceready event.",
   "main": "index.js",
@@ -22,8 +22,8 @@
     ],
     "plugins": {
       "clevertap-cordova": {
-        "CLEVERTAP_ACCOUNT_ID": "46R-747-WW7Z",
-        "CLEVERTAP_TOKEN": "a4a-264"
+        "CLEVERTAP_ACCOUNT_ID": "TEST-ZR7-899-766Z",
+        "CLEVERTAP_TOKEN": "TEST-ccb-a21"
       }
     }
   },
