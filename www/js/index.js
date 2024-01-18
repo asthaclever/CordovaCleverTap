@@ -48,10 +48,10 @@ function onDeviceReady() {
 
     var stuff = ["bags", "shoes"];
 var profile = {
-    'Name': 'PrajwalCordova',
+    'Name': 'AsthaJha',
     'Identity': '000001',
-    'Email': 'PrajwalCordova@gmail.com',
-    'Phone': '+919164611777',
+    'Email': 'Astha@gmail.com',
+    'Phone': '+919166789440',
     'stuff': stuff
 }
 CleverTap.onUserLogin(profile);
